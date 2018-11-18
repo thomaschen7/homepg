@@ -1379,6 +1379,7 @@ body {
 .cid-r9JuXrk5ep {
   padding-top: 135px;
   padding-bottom: 135px;
+  background-image: url("../../../assets/images/imag4645-1-2000x1500.jpg");
 }
 .cid-r9JuXrk5ep h1 {
   color: #616161;
@@ -1463,4 +1464,18 @@ body {
 .cid-r9Kpf7q0CY .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
+}
+.cid-r9L1ev4jHE {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-r9L1ev4jHE h1 {
+  color: #616161;
+}
+.cid-r9L1ev4jHE h2,
+.cid-r9L1ev4jHE h3,
+.cid-r9L1ev4jHE p {
+  color: #767676;
+}
+.cid-r9L1ev4jHE .mbr-section-subtitle {
+  font-style: italic;
 }
