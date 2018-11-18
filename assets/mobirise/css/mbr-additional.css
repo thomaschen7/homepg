@@ -1760,7 +1760,7 @@ body {
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #55b4d4;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1825,7 +1825,9 @@ body {
   }
 }
 .cid-r9JuXrk5ep {
-  background-image: url("../../../assets/images/imag4645-2000x1500.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #232323;
 }
 .cid-r9JuXrk5ep h1 {
   color: #616161;
