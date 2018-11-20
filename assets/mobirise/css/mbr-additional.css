@@ -1428,6 +1428,18 @@ body {
   word-wrap: break-word;
   word-break: break-word;
 }
+.cid-r9VIPk3rpI {
+  background: #ffffff;
+}
+.cid-r9VIPk3rpI .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r9VIPk3rpI .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r9KgFjHmMv {
   padding-top: 120px;
   padding-bottom: 120px;
