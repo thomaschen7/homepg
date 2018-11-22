@@ -1401,8 +1401,9 @@ body {
 }
 .cid-r9LcnF9lmd {
   background: #767676;
-  padding-top: 30px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #767676, #b2ccd2);
 }
 .cid-r9LcnF9lmd .video-block {
   margin: auto;
