@@ -1532,7 +1532,7 @@ body {
   font-style: italic;
 }
 .cid-r9LauR0xw9 {
-  background-image: url("../../../assets/images/p-20161107-64054-2000x1125.jpg");
+  background-color: #232323;
 }
 .cid-r9LauR0xw9 h1 {
   color: #616161;
@@ -1547,6 +1547,9 @@ body {
 }
 .cid-r9LauR0xw9 H1 {
   color: #ff3366;
+}
+.cid-r9LauR0xw9 H3 {
+  color: #0f7699;
 }
 .cid-r9LaqCg7cv {
   background: #149dcc;
