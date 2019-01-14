@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "another_2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1370,7 +1370,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1409535104-3654008251-n-1-600x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1520337188031-1-1080x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1387,7 +1387,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WINDOWS版本</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1519012010073-2000x1388.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p-20140602-165546-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1404,8 +1404,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1628896277-720x540.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1495639883709-960x540.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1439,7 +1439,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1521179862182-2-1706x960.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1453,6 +1453,23 @@
                 "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p-20170807-184931-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WINDOWS版本</a> "
               }
             ]
           },
