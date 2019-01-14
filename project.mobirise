@@ -955,8 +955,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gedc0541-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gedc0541-2000x1500-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p-20170811-103910-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p-20170811-103910-2000x1125-800x579.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -968,8 +968,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gedc0090-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gedc0090-2000x1500-800x505.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gedc0090-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gedc0090-1-2000x1500-800x555.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -994,13 +994,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/imgp0160-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/imgp0160-2000x1500-800x518.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p-20170811-104732-1-p-2000x3556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p-20170811-104732-1-p-2000x3556-800x1423.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "2017/02",
                 "active": false
+              },
+              {
+                "tags": "创意",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pic001305-1-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic001305-1-2000x1125-800x466.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "2012/07",
+                "active": true
               },
               {
                 "tags": "创意",
@@ -1013,7 +1026,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "2011/03",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1023,7 +1036,7 @@
     "shoulder .html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": " A shoulder to cry on",
+        "title": "shoulder ",
         "order": 5
       },
       "components": [
