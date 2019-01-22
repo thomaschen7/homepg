@@ -302,26 +302,27 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/cd-0oxO_j18",
+                "videoUrl": "https://www.youtube.com/watch?v=cd-0oxO_j18",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "视频幻灯片",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
+                "overlayOpacity": "1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1525646417841-1568x1044.jpg",
@@ -373,6 +374,24 @@
                 "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"top.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">渺</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">from a distance</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/cd-0oxO_j18",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "视频幻灯片",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
+                "overlayOpacity": "1"
               }
             ]
           }
