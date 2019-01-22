@@ -307,8 +307,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/p-20161107-64055-2000x1125.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/p-20140602-165547-2000x1125.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -342,7 +342,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/imag0344-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -391,6 +391,24 @@
                 "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"shoulder .html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Shoulder</a> ",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p-20160128-225501-1-p-2000x1125.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/cd-0oxO_j18",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 2</a>",
                 "overlayOpacity": "0"
               }
             ]
