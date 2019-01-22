@@ -341,6 +341,24 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"top.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">渺</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">from a distance</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/imag0321-1-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/cd-0oxO_j18",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "视频幻灯片",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 2</a>",
+                "overlayOpacity": "0"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/imag0344-2000x1500.jpg",
                 "active": false,
                 "showButtons": true,
@@ -358,7 +376,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"Family.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Family</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"Think.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Think</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/imag0321-1-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p-20160128-225501-1-p-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -368,10 +386,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "视频幻灯片",
+                "title": "",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 2</a>",
                 "overlayOpacity": "0"
               },
@@ -391,24 +409,6 @@
                 "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"shoulder .html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Shoulder</a> ",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/p-20160128-225501-1-p-2000x1125.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/cd-0oxO_j18",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 1</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"another_2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">another 2</a>",
                 "overlayOpacity": "0"
               }
             ]
